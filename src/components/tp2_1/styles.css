@@ -1,0 +1,10 @@
+.TP2_1_box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.TP2_1_box img{
+    width: 50vh;
+}
